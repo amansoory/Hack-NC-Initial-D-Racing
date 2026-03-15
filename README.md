@@ -68,4 +68,4 @@ Free assets were used for environment elements, vehicle models, and other game c
 This project incorporates tutorials, open resources, and free assets for educational and hackathon purposes. All external resources used are credited above.
 
 ## Authors
-Developed by **Rajin Islam** for **HackNC 2024**.
+Developed by **Rajin Islam, Arman Hassan, Humza Hassan** for **HackNC 2024**.
